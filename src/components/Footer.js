@@ -11,14 +11,17 @@ const Footer = () => {
       <div className="footer">
         <div className="container footer_container d-flex justify-content-around flex-wrap">
           <div className="first mt-5">
-            <h4>Sagar Kumar</h4>
+            <h4>Sagar Kumar Shriwastav</h4>
             <p>©️ {year} Sagar Kumar All rights reserved</p>
             <p className='d-flex' >
+              <a href="https://github.com/sagarshriwastav?tab=repositories" target="_blank" rel="noreferrer" >
+                <i className='fa-brands fa-github'></i>
+              </a>
               <a href="https://www.instagram.com/_sagar.shriwastav/" target="_blank" rel="noreferrer" >
-                <i className='fa-brands fa-instagram' ></i>
+                <i className='fa-brands fa-instagram mx-3' ></i>
               </a>
               <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">
-              <i  className='fa-brands fa-facebook mx-3' ></i>
+                <i className='fa-brands fa-facebook' ></i>
               </a>
             </p>
           </div>
@@ -30,7 +33,7 @@ const Footer = () => {
           </div>
           <div className="third mt-5">
             <h4>About</h4>
-            <p> <a className="text-decoration-none" href="/SAGAR_Resume1.pdf"  download="SAGAR_Resume1.pdf">Resume</a></p>
+            <p> <a className="text-decoration-none" href="/SAGAR_Resume1.pdf" download="SAGAR_Resume2.pdf">Resume</a></p>
           </div>
         </div>
       </div>

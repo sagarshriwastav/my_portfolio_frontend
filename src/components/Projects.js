@@ -15,6 +15,16 @@ const Projects = () => {
     }, 500)
   })
 
+  const MyButton = () => {
+    return (
+      <div className="row">
+        <div className="col">
+          <Button variant='primary' block>Live Demo</Button>
+        </div>
+      </div>
+    );
+  };
+
 
   return (
     <>
@@ -34,7 +44,7 @@ const Projects = () => {
                         <Card.Body className='d-flex justify-content-center flex-column'>
                           <Card.Title className='text-center'>{el.projectName}</Card.Title>
                           <Button variant="primary">
-                            <a href={el.demo} target="_blank" rel="noopener noreferrer" className='text-decoration-none text-light'>Live Demo</a>
+                            <a href={el.demo} target="_blank" rel="noopener noreferrer" className='text-decoration-none text-light'> <MyButton variant='primary' block >Live Demo</MyButton> </a>
                           </Button>
                         </Card.Body>
                       </Card>
