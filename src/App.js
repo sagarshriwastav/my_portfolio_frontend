@@ -6,14 +6,14 @@ import About from "./components/About"
 import Contact from "./components/Contact"
 import Projects from "./components/Projects"
 import Footer from "./components/Footer"
-import { Routes, Route } from "react-router-dom"
+import { Routes, Route } from "react-router-dom" 
 
 
 
 function App() {
   return (
     <>
-      <Header></Header> 
+      <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>} />
         <Route path='/about' element={<About></About>} />
