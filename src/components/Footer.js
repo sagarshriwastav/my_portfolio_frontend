@@ -33,7 +33,7 @@ const Footer = () => {
           </div>
           <div className="third mt-5">
             <h4>About</h4>
-            <p> <a className="text-decoration-none" href="/SAGAR_Resume1.pdf" download="SAGAR_Resume2.pdf">Resume</a></p>
+            <p> <a className="text-decoration-none" href="/SAGAR_Resume1.pdf" download="SAGAR_Resume3.pdf">Resume</a></p>
           </div>
         </div>
       </div>
