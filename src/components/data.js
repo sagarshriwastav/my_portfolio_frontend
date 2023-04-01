@@ -14,12 +14,18 @@ const projectData = [
     },
     {
         id: 3,
+        projectName: "Sellers Cure (Intern Project)",
+        demo: "https://sellerscure.onrender.com/",
+        imgsrc: "/images/sellerscure.png"
+    },
+    {
+        id: 4,
         projectName: "To Do App",
         demo: "https://github.com/sagarshriwastav/To-Do-App/tree/main/backend",
         imgsrc: "/images/todoapp_img.png"
     },
     {
-        id: 4,
+        id: 5,
         projectName: "Node Mailer",
         demo: "https://github.com/sagarshriwastav/Node-Mailer-Project",
         imgsrc: "/images/nodemailer_img.png"

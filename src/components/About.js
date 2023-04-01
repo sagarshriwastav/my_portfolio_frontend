@@ -11,7 +11,7 @@ const About = () => {
             <h1><span style={{ color: "#6c63ff" }} >Skills </span></h1>
             {/* <p style={{ color: "#666", letterSpacing: ".5px", marginTop: 2, lineHeight: 2 }}> */}
             <p style={{ letterSpacing: ".5px", marginTop: 2, lineHeight: 2 }}>
-              <b>Programming Languages:</b>   Java, Java Script, C++, Python, C <br />
+              <b>Programming Languages:</b>   Java, Java Script, C/C++, Python <br />
               <b>Coding Journey:</b>  <a href="https://leetcode.com/problemset/all/" target="_blank" rel="noreferrer">LeetCode</a> ,    <a href='https://auth.geeksforgeeks.org/user/sagarshriwastav2/practice' target="_blank" rel="noreferrer">GeeksforGeeks</a> , <a href="https://www.hackerrank.com/dashboard" target="_blank" rel="noreferrer">HackerRank </a>    <br />
               Solved 460+ DSA Probelms , 5-Star in SQL HackerRank <br />
               <b>Frameworks:</b> React.js, Redux, Node.js, Express.js, Socket.io, React-Bootstrap

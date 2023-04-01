@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import Button from 'react-bootstrap/Button';
+import { Button } from 'react-bootstrap'
 import Card from 'react-bootstrap/Card';
 import projectData from "./data"
 import Spinner from 'react-bootstrap/Spinner';
@@ -29,7 +29,8 @@ const Projects = () => {
   return (
     <>
       {
-        spin ? <div className='d-flex justify-content-center align-items-center' style={{height:"90vh"}}>
+
+        spin ? <div className='d-flex justify-content-center align-items-center' style={{ height: "90vh" }}>
           <Spinner animation="border" variant="info" /> &nbsp;&nbsp; Loading ...
         </div> : <div className="container">
           <h2 className='text-center mt-2' >Projects</h2>
@@ -61,3 +62,8 @@ const Projects = () => {
 }
 
 export default Projects
+
+
+
+
+
