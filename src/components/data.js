@@ -14,9 +14,9 @@ const projectData = [
     },
     {
         id: 3,
-        projectName: "Sellers Cure (Intern Project)",
-        demo: "https://sellerscure.onrender.com/",
-        imgsrc: "/images/sellerscure.png"
+        projectName: "Tic-Tac-Toe Game",
+        demo: "https://github.com/sagarshriwastav/tic-tac-toe-game",
+        imgsrc: "/images/Tic_tac_toe.png"
     },
     {
         id: 4,
