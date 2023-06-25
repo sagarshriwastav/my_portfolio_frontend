@@ -11,19 +11,19 @@ const About = () => {
             <h1><span style={{ color: "#6c63ff" }} >Skills </span></h1>
             {/* <p style={{ color: "#666", letterSpacing: ".5px", marginTop: 2, lineHeight: 2 }}> */}
             <p style={{ letterSpacing: ".5px", marginTop: 2, lineHeight: 2 }}>
-              <b>Programming Languages:</b>   Java, Java Script, C/C++, Python <br />
+              <b>Programming Languages:</b>   Java, JavaScript, C/C++, Python <br />
               <b>Coding Journey:</b>  <a href="https://leetcode.com/problemset/all/" target="_blank" rel="noreferrer">LeetCode</a> ,    <a href='https://auth.geeksforgeeks.org/user/sagarshriwastav2/practice' target="_blank" rel="noreferrer">GeeksforGeeks</a> , <a href="https://www.hackerrank.com/dashboard" target="_blank" rel="noreferrer">HackerRank </a>    <br />
-              Solved 460+ DSA Probelms , 5-Star in SQL HackerRank <br />
+              Solved 510+ DSA Problems , 5-Star in SQL HackerRank <br />
               <b>Frameworks:</b> React.js, Redux, Node.js, Express.js, Socket.io, React-Bootstrap
               <br />
               <b>Database Management System:</b>   SQL, MongoDB <br />
               <b>Development & Operations:</b>   Render.com, Cloudfare, Netlify <br />
               <b>Computer Fundamentals:</b> OOPS, DBMS, Computer Networking, Operating System <br />
-              <b>Other Skills:</b> Linux, <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">Git-GitHub</a> , FIGMA
+              <b>Other Skills:</b> Linux, <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">Git-GitHub</a>, Git-Lab , Apex , FIGMA
             </p>
           </div>
           <div className="right_container mt-3">
-            <img src="/images/study_table.jpg" alt="" />
+            <img src="/images/portfolio_image.jpg" alt="" />
           </div>
         </div>
       </div>

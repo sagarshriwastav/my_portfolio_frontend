@@ -2,7 +2,7 @@
 const projectData = [
     {
         id: 1,
-        projectName: "E-Commerce App",
+        projectName: "Soft SAGA an E-Commerce App",
         demo: "https://soft-saga.onrender.com/",
         imgsrc: "/images/soft saga2.png"
     },
