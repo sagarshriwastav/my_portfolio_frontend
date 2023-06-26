@@ -14,12 +14,12 @@ const About = () => {
               <b>Programming Languages:</b>   Java, JavaScript, C/C++, Python <br />
               <b>Coding Journey:</b>  <a href="https://leetcode.com/problemset/all/" target="_blank" rel="noreferrer">LeetCode</a> ,    <a href='https://auth.geeksforgeeks.org/user/sagarshriwastav2/practice' target="_blank" rel="noreferrer">GeeksforGeeks</a> , <a href="https://www.hackerrank.com/dashboard" target="_blank" rel="noreferrer">HackerRank </a>    <br />
               Solved 510+ DSA Problems , 5-Star in SQL HackerRank <br />
-              <b>Frameworks:</b> React.js, Redux, Node.js, Express.js, Socket.io, React-Bootstrap
+              <b>Frameworks:</b> React, Redux, Node, Express, Socket.io, React-Bootstrap
               <br />
               <b>Database Management System:</b>   SQL, MongoDB <br />
               <b>Development & Operations:</b>   Render.com, Cloudfare, Netlify <br />
-              <b>Computer Fundamentals:</b> OOPS, DBMS, Computer Networking, Operating System <br />
-              <b>Other Skills:</b> Linux, <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">Git-GitHub</a>, Git-Lab , Apex , FIGMA
+              <b>Computer Fundamentals:</b> OOPS, DBMS, CN, OS<br />
+              <b>Other Skills:</b> Linux, <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">Git-GitHub</a>, Git-Lab , Apex , Figma
             </p>
           </div>
           <div className="right_container mt-3">

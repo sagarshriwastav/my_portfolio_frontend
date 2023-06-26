@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="container footer_container d-flex justify-content-around flex-wrap">
           <div className="first mt-5">
             <h4>Sagar Kumar Shriwastav</h4>
-            <p>©️ {year} Saga®️ All rights reserved</p>
+            <p>©️ {year} Saga®️ All rights reserved.</p>
             <p className='d-flex' >
               <a href="https://github.com/sagarshriwastav?tab=repositories" target="_blank" rel="noreferrer" >
                 <i className='fa-brands fa-github'></i>
