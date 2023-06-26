@@ -29,7 +29,7 @@ const Footer = () => {
             <h4>Get In Touch</h4>
             <p>Laxman Vihar phase II Gurugram 122001 Haryana.</p>
             <p>info@sagarshriwastav2@gmail.com</p>
-            <p>+91 8708998652  9466625579</p>
+            <p>+91 8708998652 , 9466625579</p>
           </div>
           <div className="third mt-5">
             <h4>About</h4>
