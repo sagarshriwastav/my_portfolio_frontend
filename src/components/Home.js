@@ -41,7 +41,7 @@ const Home = () => {
               I have recently completed my B.Tech degree in Information Technology from Maulana Abul Kalam Azad University of Technology, West Bengal. Throughout my academic journey, I developed a strong passion for full-stack web development and software programming. I have a keen interest in data structures, algorithms, and optimization. As a dedicated programmer, I thrive on challenges and actively contribute to finding solutions.
             </p>
             <Button variant="danger" style={{ letterSpacing: "1px", border: "none", borderRadius: 4, backgroundColor: "#2f2d69", marginRight: 24 }} href="https://www.linkedin.com/in/sagar-kumar-3a0111170/" target='_blank' >LinkedIn</Button>
-            <Button variant="danger" style={{ letterSpacing: "1px", border: "none", borderRadius: 4, backgroundColor: "#6c63ff" }} href="agar_Kumar_Resume.pdf" download="Sagar_Kumar_Resume.pdf" >Download CV</Button>
+            <Button variant="danger" style={{ letterSpacing: "1px", border: "none", borderRadius: 4, backgroundColor: "#6c63ff" }} href="Sagar_Kumar_Resume.pdf" download="Sagar_Kumar_Resume.pdf" >Download CV</Button>
           </div>
           <div className="right_div">
             <img src="/images/homepage_img.png" alt="" srcset="" />
