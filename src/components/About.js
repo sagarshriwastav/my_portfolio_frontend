@@ -19,7 +19,7 @@ const About = () => {
               <b>Database Management System:</b>   SQL, MongoDB <br />
               <b>Development & Operations:</b>   Render.com, Cloudfare, Netlify <br />
               <b>Computer Fundamentals:</b> OOPS, DBMS, CN, OS<br />
-              <b>Other Skills:</b> Linux, <a href="https://www.facebook.com/sagarkumar.shriwastav" target="_blank" rel="noreferrer">Git-GitHub</a>, Git-Lab , Apex , Figma
+              <b>Other Skills:</b> Linux, <a href="https://github.com/sagarshriwastav?tab=repositories" target="_blank" rel="noreferrer">Git-GitHub</a>, Git-Lab , Apex , Figma
             </p>
           </div>
           <div className="right_container mt-3">
